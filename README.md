@@ -6,16 +6,10 @@ We’re also bringing over all the best building workflows from here (like the *
 
 The agent now works with a clean UI so you can clearly see what’s happening as it works.
 
-**Try it out today:** [https://flopperam.com/](https://flopperam.com/)
+**Try it out today:** [https://floperam.com/](https://floperam.com/)
 
 
 # The Most Advanced MCP Server for Unreal Engine
-
-[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-5.5%2B-orange.svg)](https://www.unrealengine.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-@flopperam-red.svg?logo=youtube)](https://youtube.com/@flopperam)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2.svg?logo=discord&logoColor=white)](https://discord.gg/3KNkke3rnH)
-[![Twitter](https://img.shields.io/badge/X-@Flopperam-1DA1F2.svg?logo=x&logoColor=white)](https://twitter.com/Flopperam)
-[![TikTok](https://img.shields.io/badge/TikTok-@flopperam-000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@flopperam)
 
 **Control Unreal Engine 5.5+ through AI with natural language. Build incredible 3D worlds and architectural masterpieces using MCP. Create entire towns, medieval castles, modern mansions, challenging mazes, and complex structures with AI-powered commands.**
 
@@ -193,12 +187,6 @@ graph TB
 ## Community & Support
 
 **Join our community and get help building amazing worlds!**
-
-### Connect With Us
-- **YouTube**: [youtube.com/@flopperam](https://youtube.com/@flopperam) - Tutorials, showcases, and development updates
-- **Discord**: [discord.gg/8yr1RBv](https://discord.gg/3KNkke3rnH) - Get help, share creations, and discuss the plugin
-- **Twitter/X**: [twitter.com/Flopperam](https://twitter.com/Flopperam) - Latest news and quick updates  
-- **TikTok**: [tiktok.com/@flopperam](https://tiktok.com/@flopperam) - Quick tips and amazing builds
 
 ### Get Help & Share
 - **Setup Issues?** Check our [Debugging & Troubleshooting Guide](DEBUGGING.md) first
