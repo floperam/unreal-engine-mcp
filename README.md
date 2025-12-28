@@ -22,7 +22,7 @@ More tutorials and examples are on the way as the agent evolves.
 
 **Control Unreal Engine 5.5+ through AI with natural language. Build incredible 3D worlds and architectural masterpieces using MCP. Create entire towns, medieval castles, modern mansions, challenging mazes, and complex structures with AI-powered commands.**
 
-> **Active Development**: This project is under very active development with consistent updates, new features, and improvements being added regularly. Join our [Discord](https://discord.gg/3KNkke3rnH) to stay updated on the latest releases!
+> **Active Development**: This project is under very active development with consistent updates, new features, and improvements being added regularly. Check back here for release notes and updates.
 
 ## 🎬 See It In Action
 Watch our comprehensive tutorial for complete setup and usage:
